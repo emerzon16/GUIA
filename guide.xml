@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMERICA TV HD">
+    <display-name lang="es">AMERICA TV HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210728003000 -0500" stop="20210728013000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Quererlo todo</title>
+  </programme>
+  <programme start="20210728013000 -0500" stop="20210728023000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Fuego ardiente</title>
+  </programme>
+  <programme start="20210728023000 -0500" stop="20210728030000 -0500" channel="AMERICA TV HD">
+    <title lang="es">América espectáculos</title>
+  </programme>
+  <programme start="20210728030000 -0500" stop="20210728050000 -0500" channel="AMERICA TV HD">
+    <title lang="es">En boca de todos</title>
+  </programme>
+  <programme start="20210728050000 -0500" stop="20210728070000 -0500" channel="AMERICA TV HD">
+    <title lang="es">América noticias primera edición</title>
+  </programme>
+  <programme start="20210728070000 -0500" stop="20210728080000 -0500" channel="AMERICA TV HD">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20210728080000 -0500" stop="20210728100000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Transmisión de Mando del Bicentenario - Misa y te deum</title>
+  </programme>
+  <programme start="20210728100000 -0500" stop="20210728120000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Transmisión de mando del Bicentenario - Los minutos decisivos</title>
+  </programme>
+  <programme start="20210728120000 -0500" stop="20210728130000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Transmisión de mando del Bicentenario - Ceremonia de entrega</title>
+  </programme>
+  <programme start="20210728130000 -0500" stop="20210728140000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Transmisión de Mando del Bicentenario - Mensaje presidencial</title>
+  </programme>
+  <programme start="20210728140000 -0500" stop="20210728154000 -0500" channel="AMERICA TV HD">
+    <title lang="es">La amante del libertador</title>
+  </programme>
+  <programme start="20210728154000 -0500" stop="20210728162000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Al fondo hay sitio</title>
+  </programme>
+  <programme start="20210728162000 -0500" stop="20210728170000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Quererlo todo</title>
+  </programme>
+  <programme start="20210728170000 -0500" stop="20210728190000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Los milagros de la rosa</title>
+  </programme>
+  <programme start="20210728190000 -0500" stop="20210728203000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Esto es guerra</title>
+  </programme>
+  <programme start="20210728203000 -0500" stop="20210728213000 -0500" channel="AMERICA TV HD">
+    <title lang="es">De Vuelta Al Barrio</title>
+  </programme>
+  <programme start="20210728213000 -0500" stop="20210728225000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Luz de luna</title>
+  </programme>
+  <programme start="20210728225000 -0500" stop="20210728233000 -0500" channel="AMERICA TV HD">
+    <title lang="es">La Tinka</title>
+  </programme>
+  <programme start="20210728233000 -0500" stop="20210729003000 -0500" channel="AMERICA TV HD">
+    <title lang="es">La banda del chino</title>
+  </programme>
+  <programme start="20210729013000 -0500" stop="20210729040000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Cocina Nostra</title>
+  </programme>
+  <programme start="20210729040000 -0500" stop="20210729050000 -0500" channel="AMERICA TV HD">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20210729050000 -0500" stop="20210729070000 -0500" channel="AMERICA TV HD">
+    <title lang="es">América noticias primera edición</title>
+  </programme>
+  <programme start="20210729070000 -0500" stop="20210729093000 -0500" channel="AMERICA TV HD">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20210729093000 -0500" stop="20210729110000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Machu Picchu, la joya del emperador</title>
+  </programme>
+  <programme start="20210729110000 -0500" stop="20210729120000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Fuego ardiente</title>
+  </programme>
+  <programme start="20210729120000 -0500" stop="20210729130000 -0500" channel="AMERICA TV HD">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20210729130000 -0500" stop="20210729144000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Grau, caballero de los mares</title>
+  </programme>
+  <programme start="20210729144000 -0500" stop="20210729160000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Al fondo hay sitio</title>
+  </programme>
+  <programme start="20210729160000 -0500" stop="20210729170000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Quererlo todo</title>
+  </programme>
+  <programme start="20210729203000 -0500" stop="20210729213000 -0500" channel="AMERICA TV HD">
+    <title lang="es">De Vuelta Al Barrio</title>
+  </programme>
+  <programme start="20210729213000 -0500" stop="20210729223000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Luz de luna</title>
+  </programme>
+  <programme start="20210729223000 -0500" stop="20210729233000 -0500" channel="AMERICA TV HD">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20210730030000 -0500" stop="20210730040000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Cocina Nostra</title>
+  </programme>
+  <programme start="20210730093000 -0500" stop="20210730110000 -0500" channel="AMERICA TV HD">
+    <title lang="es">América Hoy</title>
+  </programme>
+  <programme start="20210730130000 -0500" stop="20210730150000 -0500" channel="AMERICA TV HD">
+    <title lang="es">En boca de todos</title>
+  </programme>
+  <programme start="20210730150000 -0500" stop="20210730160000 -0500" channel="AMERICA TV HD">
+    <title lang="es">Al fondo hay sitio</title>
+  </programme>
+</tv>
