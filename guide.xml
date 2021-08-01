@@ -8,6 +8,10 @@
     <display-name lang="es">AMERICA TV FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="ESPN PERU 1 HD">
+    <display-name lang="es">ESPN PERU 1 HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20210801001500 -0500" stop="20210801014500 -0500" channel="AMERICA TV HD">
     <title lang="es">Henry el terrible</title>
   </programme>
@@ -253,5 +257,140 @@
   </programme>
   <programme start="20210803050000 -0500" stop="20210803070000 -0500" channel="AMERICA TV FHD">
     <title lang="es">América noticias - Primera edición - Local</title>
+  </programme>
+  <programme start="20210801003000 -0500" stop="20210801013000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20210801013000 -0500" stop="20210801023000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20210801023000 -0500" stop="20210801030000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20210801030000 -0500" stop="20210801040000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">Simplemente Futbol</title>
+  </programme>
+  <programme start="20210801040000 -0500" stop="20210801050000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN F nacional</title>
+  </programme>
+  <programme start="20210801050000 -0500" stop="20210801060000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20210801060000 -0500" stop="20210801070000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20210801070000 -0500" stop="20210801080000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20210801080000 -0500" stop="20210801090000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20210801090000 -0500" stop="20210801133000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210801133000 -0500" stop="20210801155000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter - Relato En Vivo</title>
+  </programme>
+  <programme start="20210801155000 -0500" stop="20210801180000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter - Relato En Vivo</title>
+  </programme>
+  <programme start="20210801180000 -0500" stop="20210801200000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter Sur En Vivo</title>
+  </programme>
+  <programme start="20210801200000 -0500" stop="20210801213000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN F10 En Vivo</title>
+  </programme>
+  <programme start="20210801213000 -0500" stop="20210801230000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A En Vivo</title>
+  </programme>
+  <programme start="20210801230000 -0500" stop="20210802000000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter En Vivo</title>
+  </programme>
+  <programme start="20210802000000 -0500" stop="20210802013000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20210802013000 -0500" stop="20210802030000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20210802030000 -0500" stop="20210802040000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">Simplemente Futbol</title>
+  </programme>
+  <programme start="20210802040000 -0500" stop="20210802043000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20210802043000 -0500" stop="20210802060000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20210802060000 -0500" stop="20210802100000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter - edición de mediodía En Vivo</title>
+  </programme>
+  <programme start="20210802100000 -0500" stop="20210802110000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN F12 En Vivo</title>
+  </programme>
+  <programme start="20210802110000 -0500" stop="20210802130000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN F90 Primera edición En Vivo</title>
+  </programme>
+  <programme start="20210802130000 -0500" stop="20210802150000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN F360 En Vivo</title>
+  </programme>
+  <programme start="20210802150000 -0500" stop="20210802165000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter En Vivo</title>
+  </programme>
+  <programme start="20210802165000 -0500" stop="20210802190000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">Rosario Central vs. Aldosivi En Vivo</title>
+  </programme>
+  <programme start="20210802190000 -0500" stop="20210802210000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter Sur En Vivo</title>
+  </programme>
+  <programme start="20210802210000 -0500" stop="20210802223000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">Equipo F En Vivo</title>
+  </programme>
+  <programme start="20210802223000 -0500" stop="20210802233000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter En Vivo</title>
+  </programme>
+  <programme start="20210802233000 -0500" stop="20210803003000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A En Vivo</title>
+  </programme>
+  <programme start="20210803023000 -0500" stop="20210803030000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20210803030000 -0500" stop="20210803033000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20210803033000 -0500" stop="20210803040000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20210803040000 -0500" stop="20210803050000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20210803050000 -0500" stop="20210803060000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20210803060000 -0500" stop="20210803100000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter - edición de mediodía En Vivo</title>
+  </programme>
+  <programme start="20210803100000 -0500" stop="20210803110000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN F12 En Vivo</title>
+  </programme>
+  <programme start="20210803110000 -0500" stop="20210803130000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN F90 Primera edición En Vivo</title>
+  </programme>
+  <programme start="20210803130000 -0500" stop="20210803150000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN F360 En Vivo</title>
+  </programme>
+  <programme start="20210803150000 -0500" stop="20210803170000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter En Vivo</title>
+  </programme>
+  <programme start="20210803170000 -0500" stop="20210803191500 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">Fluminense vs. Cerro Porteño En Vivo</title>
+  </programme>
+  <programme start="20210803191500 -0500" stop="20210803220000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter Sur En Vivo</title>
+  </programme>
+  <programme start="20210803220000 -0500" stop="20210803230000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A En Vivo</title>
+  </programme>
+  <programme start="20210803230000 -0500" stop="20210804000000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
   </programme>
 </tv>
