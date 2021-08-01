@@ -1,115 +1,166 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="AMERICA TV HD">
+  <channel id="Canal América Televisión (Perú) ">
     <display-name lang="es">AMERICA TV HD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20210728003000 -0500" stop="20210728013000 -0500" channel="AMERICA TV HD">
+  <programme start="20210731003000 -0500" stop="20210731013000 -0500" channel="Canal América Televisión (Perú) ">
     <title lang="es">Quererlo todo</title>
   </programme>
-  <programme start="20210728013000 -0500" stop="20210728023000 -0500" channel="AMERICA TV HD">
+  <programme start="20210731013000 -0500" stop="20210731023000 -0500" channel="Canal América Televisión (Perú) ">
     <title lang="es">Fuego ardiente</title>
   </programme>
-  <programme start="20210728023000 -0500" stop="20210728030000 -0500" channel="AMERICA TV HD">
+  <programme start="20210731023000 -0500" stop="20210731030000 -0500" channel="Canal América Televisión (Perú) ">
     <title lang="es">América espectáculos</title>
   </programme>
-  <programme start="20210728030000 -0500" stop="20210728050000 -0500" channel="AMERICA TV HD">
-    <title lang="es">En boca de todos</title>
-  </programme>
-  <programme start="20210728050000 -0500" stop="20210728070000 -0500" channel="AMERICA TV HD">
-    <title lang="es">América noticias primera edición</title>
-  </programme>
-  <programme start="20210728070000 -0500" stop="20210728080000 -0500" channel="AMERICA TV HD">
+  <programme start="20210731030000 -0500" stop="20210731040000 -0500" channel="Canal América Televisión (Perú) ">
     <title lang="es">América Noticias</title>
   </programme>
-  <programme start="20210728080000 -0500" stop="20210728100000 -0500" channel="AMERICA TV HD">
-    <title lang="es">Transmisión de Mando del Bicentenario - Misa y te deum</title>
+  <programme start="20210731040000 -0500" stop="20210731060000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">En boca de todos</title>
   </programme>
-  <programme start="20210728100000 -0500" stop="20210728120000 -0500" channel="AMERICA TV HD">
-    <title lang="es">Transmisión de mando del Bicentenario - Los minutos decisivos</title>
+  <programme start="20210731060000 -0500" stop="20210731070000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América noticias matutino</title>
   </programme>
-  <programme start="20210728120000 -0500" stop="20210728130000 -0500" channel="AMERICA TV HD">
-    <title lang="es">Transmisión de mando del Bicentenario - Ceremonia de entrega</title>
+  <programme start="20210731070000 -0500" stop="20210731090000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias</title>
   </programme>
-  <programme start="20210728130000 -0500" stop="20210728140000 -0500" channel="AMERICA TV HD">
-    <title lang="es">Transmisión de Mando del Bicentenario - Mensaje presidencial</title>
+  <programme start="20210731090000 -0500" stop="20210731110000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Estás en todas</title>
   </programme>
-  <programme start="20210728140000 -0500" stop="20210728154000 -0500" channel="AMERICA TV HD">
-    <title lang="es">La amante del libertador</title>
+  <programme start="20210731110000 -0500" stop="20210731120000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Cinescape</title>
   </programme>
-  <programme start="20210728154000 -0500" stop="20210728162000 -0500" channel="AMERICA TV HD">
-    <title lang="es">Al fondo hay sitio</title>
+  <programme start="20210731120000 -0500" stop="20210731130000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">El chapulin colorado animado</title>
   </programme>
-  <programme start="20210728162000 -0500" stop="20210728170000 -0500" channel="AMERICA TV HD">
-    <title lang="es">Quererlo todo</title>
+  <programme start="20210731130000 -0500" stop="20210731140000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Emprendedor, ponte las pilas</title>
   </programme>
-  <programme start="20210728170000 -0500" stop="20210728190000 -0500" channel="AMERICA TV HD">
+  <programme start="20210731140000 -0500" stop="20210731154000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Animales al ataque</title>
+  </programme>
+  <programme start="20210731154000 -0500" stop="20210731173000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">El Heredero del Crimen</title>
+  </programme>
+  <programme start="20210731173000 -0500" stop="20210731185000 -0500" channel="Canal América Televisión (Perú) ">
     <title lang="es">Los milagros de la rosa</title>
   </programme>
-  <programme start="20210728190000 -0500" stop="20210728203000 -0500" channel="AMERICA TV HD">
-    <title lang="es">Esto es guerra</title>
+  <programme start="20210731185000 -0500" stop="20210731210000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">El reventonazo de la Chola</title>
   </programme>
-  <programme start="20210728203000 -0500" stop="20210728213000 -0500" channel="AMERICA TV HD">
-    <title lang="es">De Vuelta Al Barrio</title>
+  <programme start="20210731210000 -0500" stop="20210731234500 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">El artista del año - Reinas del show</title>
   </programme>
-  <programme start="20210728213000 -0500" stop="20210728225000 -0500" channel="AMERICA TV HD">
-    <title lang="es">Luz de luna</title>
+  <programme start="20210731234500 -0500" stop="20210801001500 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Bicentenario</title>
   </programme>
-  <programme start="20210728225000 -0500" stop="20210728233000 -0500" channel="AMERICA TV HD">
+  <programme start="20210801234500 -0500" stop="20210802001500 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Bicentenario</title>
+  </programme>
+  <programme start="20210802001500 -0500" stop="20210802014500 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Henry el terrible</title>
+  </programme>
+  <programme start="20210802014500 -0500" stop="20210802031500 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">La pequeña brujita</title>
+  </programme>
+  <programme start="20210802031500 -0500" stop="20210802050000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20210802050000 -0500" stop="20210802060000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Estás en todas</title>
+  </programme>
+  <programme start="20210802060000 -0500" stop="20210802070000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20210802070000 -0500" stop="20210802083000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20210802083000 -0500" stop="20210802110000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Al dia domingo</title>
+  </programme>
+  <programme start="20210802110000 -0500" stop="20210802120000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">TEC</title>
+  </programme>
+  <programme start="20210802120000 -0500" stop="20210802130000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Pokémon Héroes, latios y latias</title>
+  </programme>
+  <programme start="20210802130000 -0500" stop="20210802140000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Emprendedor, ponte las pilas</title>
+  </programme>
+  <programme start="20210802140000 -0500" stop="20210802143000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Bicentenario</title>
+  </programme>
+  <programme start="20210802143000 -0500" stop="20210802145000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">El chavo animado</title>
+  </programme>
+  <programme start="20210802145000 -0500" stop="20210802170000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Spiderman de regreso a casa</title>
+  </programme>
+  <programme start="20210802170000 -0500" stop="20210802190000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Los milagros de la rosa</title>
+  </programme>
+  <programme start="20210802190000 -0500" stop="20210802200000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Mi mamá cocina mejor que la tuya</title>
+  </programme>
+  <programme start="20210802200000 -0500" stop="20210802220000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Cuarto Poder</title>
+  </programme>
+  <programme start="20210802220000 -0500" stop="20210802225000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Fútbol en América</title>
+  </programme>
+  <programme start="20210802225000 -0500" stop="20210802225500 -0500" channel="Canal América Televisión (Perú) ">
     <title lang="es">La Tinka</title>
   </programme>
-  <programme start="20210728233000 -0500" stop="20210729003000 -0500" channel="AMERICA TV HD">
-    <title lang="es">La banda del chino</title>
+  <programme start="20210802225500 -0500" stop="20210803000000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Fútbol en América</title>
   </programme>
-  <programme start="20210729013000 -0500" stop="20210729040000 -0500" channel="AMERICA TV HD">
-    <title lang="es">Cocina Nostra</title>
+  <programme start="20210803000000 -0500" stop="20210803023000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">The Hobbit La desolación de Smaug</title>
   </programme>
-  <programme start="20210729040000 -0500" stop="20210729050000 -0500" channel="AMERICA TV HD">
-    <title lang="es">América Noticias</title>
+  <programme start="20210803023000 -0500" stop="20210803033000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Al dia domingo</title>
   </programme>
-  <programme start="20210729050000 -0500" stop="20210729070000 -0500" channel="AMERICA TV HD">
-    <title lang="es">América noticias primera edición</title>
+  <programme start="20210803033000 -0500" stop="20210803050000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Cuarto Poder</title>
   </programme>
-  <programme start="20210729070000 -0500" stop="20210729093000 -0500" channel="AMERICA TV HD">
-    <title lang="es">América Noticias</title>
+  <programme start="20210803050000 -0500" stop="20210803070000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias: Primera edición</title>
   </programme>
-  <programme start="20210729093000 -0500" stop="20210729110000 -0500" channel="AMERICA TV HD">
-    <title lang="es">Machu Picchu, la joya del emperador</title>
+  <programme start="20210803070000 -0500" stop="20210803093000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias: Primera edición</title>
   </programme>
-  <programme start="20210729110000 -0500" stop="20210729120000 -0500" channel="AMERICA TV HD">
-    <title lang="es">Fuego ardiente</title>
-  </programme>
-  <programme start="20210729120000 -0500" stop="20210729130000 -0500" channel="AMERICA TV HD">
-    <title lang="es">América Noticias</title>
-  </programme>
-  <programme start="20210729130000 -0500" stop="20210729144000 -0500" channel="AMERICA TV HD">
-    <title lang="es">Grau, caballero de los mares</title>
-  </programme>
-  <programme start="20210729144000 -0500" stop="20210729160000 -0500" channel="AMERICA TV HD">
-    <title lang="es">Al fondo hay sitio</title>
-  </programme>
-  <programme start="20210729160000 -0500" stop="20210729170000 -0500" channel="AMERICA TV HD">
-    <title lang="es">Quererlo todo</title>
-  </programme>
-  <programme start="20210729203000 -0500" stop="20210729213000 -0500" channel="AMERICA TV HD">
-    <title lang="es">De Vuelta Al Barrio</title>
-  </programme>
-  <programme start="20210729213000 -0500" stop="20210729223000 -0500" channel="AMERICA TV HD">
-    <title lang="es">Luz de luna</title>
-  </programme>
-  <programme start="20210729223000 -0500" stop="20210729233000 -0500" channel="AMERICA TV HD">
-    <title lang="es">América Noticias</title>
-  </programme>
-  <programme start="20210730030000 -0500" stop="20210730040000 -0500" channel="AMERICA TV HD">
-    <title lang="es">Cocina Nostra</title>
-  </programme>
-  <programme start="20210730093000 -0500" stop="20210730110000 -0500" channel="AMERICA TV HD">
+  <programme start="20210803093000 -0500" stop="20210803110000 -0500" channel="Canal América Televisión (Perú) ">
     <title lang="es">América Hoy</title>
   </programme>
-  <programme start="20210730130000 -0500" stop="20210730150000 -0500" channel="AMERICA TV HD">
+  <programme start="20210803110000 -0500" stop="20210803120000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Fuego ardiente</title>
+  </programme>
+  <programme start="20210803120000 -0500" stop="20210803130000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias</title>
+  </programme>
+  <programme start="20210803130000 -0500" stop="20210803150000 -0500" channel="Canal América Televisión (Perú) ">
     <title lang="es">En boca de todos</title>
   </programme>
-  <programme start="20210730150000 -0500" stop="20210730160000 -0500" channel="AMERICA TV HD">
+  <programme start="20210803150000 -0500" stop="20210803160000 -0500" channel="Canal América Televisión (Perú) ">
     <title lang="es">Al fondo hay sitio</title>
+  </programme>
+  <programme start="20210803160000 -0500" stop="20210803170000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Quererlo todo</title>
+  </programme>
+  <programme start="20210803170000 -0500" stop="20210803185000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Los milagros de la rosa</title>
+  </programme>
+  <programme start="20210803185000 -0500" stop="20210803203000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Esto es guerra</title>
+  </programme>
+  <programme start="20210803203000 -0500" stop="20210803213000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">De Vuelta Al Barrio</title>
+  </programme>
+  <programme start="20210803213000 -0500" stop="20210803223000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">Luz de luna</title>
+  </programme>
+  <programme start="20210803223000 -0500" stop="20210803233000 -0500" channel="Canal América Televisión (Perú) ">
+    <title lang="es">América Noticias</title>
   </programme>
 </tv>
