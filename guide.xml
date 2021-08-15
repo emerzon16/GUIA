@@ -143,6 +143,46 @@
     <display-name lang="es">CANAL 13</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="CANAL 13 HD">
+    <display-name lang="es">CANAL 13 HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CANAL 13 SD">
+    <display-name lang="es">CANAL 13 SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CHILEVISION">
+    <display-name lang="es">CHILEVISION</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CHILEVISION HD">
+    <display-name lang="es">CHILEVISION HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CHILEVISION SD">
+    <display-name lang="es">CHILEVISION SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="LA RED HD">
+    <display-name lang="es">LA RED HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="LA RED SD">
+    <display-name lang="es">LA RED SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MEGA">
+    <display-name lang="es">MEGA</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MEGA HD">
+    <display-name lang="es">MEGA HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MEGA SD">
+    <display-name lang="es">MEGA SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20210815063000 +0000" stop="20210815093000 +0000" channel="LATINA HD">
     <title lang="es">Nutrisa</title>
     <desc lang="es">Programa que le permite conocer los beneficios que ofrecen los variados productos naturales de Nutrisa para mejorar su salud y bienestar.(n)</desc>
@@ -11969,6 +12009,63 @@
   <programme start="20210818233000 -0500" stop="20210819000000 -0500" channel="PERU MAGICO">
     <title lang="es">Entre cuchillos y fuego</title>
   </programme>
+  <programme start="20210819023000 -0500" stop="20210819030000 -0500" channel="PERU MAGICO">
+    <title lang="es">Ximena en Casa</title>
+  </programme>
+  <programme start="20210819030000 -0500" stop="20210819033000 -0500" channel="PERU MAGICO">
+    <title lang="es">Celebra Perú</title>
+  </programme>
+  <programme start="20210819033000 -0500" stop="20210819040000 -0500" channel="PERU MAGICO">
+    <title lang="es">Dulces Secretos</title>
+  </programme>
+  <programme start="20210819040000 -0500" stop="20210819053000 -0500" channel="PERU MAGICO">
+    <title lang="es">Al Ángulo</title>
+  </programme>
+  <programme start="20210819053000 -0500" stop="20210819060000 -0500" channel="PERU MAGICO">
+    <title lang="es">La gran despensa</title>
+  </programme>
+  <programme start="20210819090000 -0500" stop="20210819093000 -0500" channel="PERU MAGICO">
+    <title lang="es">Dulces Secretos</title>
+  </programme>
+  <programme start="20210819093000 -0500" stop="20210819100000 -0500" channel="PERU MAGICO">
+    <title lang="es">Más rico</title>
+  </programme>
+  <programme start="20210819120000 -0500" stop="20210819123000 -0500" channel="PERU MAGICO">
+    <title lang="es">Entre cuchillos y fuego</title>
+  </programme>
+  <programme start="20210819180000 -0500" stop="20210819183000 -0500" channel="PERU MAGICO">
+    <title lang="es">La 4ta pantalla</title>
+  </programme>
+  <programme start="20210819183000 -0500" stop="20210819190000 -0500" channel="PERU MAGICO">
+    <title lang="es">Ximena en Casa</title>
+  </programme>
+  <programme start="20210819233000 -0500" stop="20210820000000 -0500" channel="PERU MAGICO">
+    <title lang="es">Dulces Secretos</title>
+  </programme>
+  <programme start="20210820033000 -0500" stop="20210820040000 -0500" channel="PERU MAGICO">
+    <title lang="es">La 4ta pantalla</title>
+  </programme>
+  <programme start="20210820053000 -0500" stop="20210820060000 -0500" channel="PERU MAGICO">
+    <title lang="es">Dulces Secretos</title>
+  </programme>
+  <programme start="20210820090000 -0500" stop="20210820093000 -0500" channel="PERU MAGICO">
+    <title lang="es">Más rico</title>
+  </programme>
+  <programme start="20210820093000 -0500" stop="20210820100000 -0500" channel="PERU MAGICO">
+    <title lang="es">La 4ta pantalla</title>
+  </programme>
+  <programme start="20210820120000 -0500" stop="20210820123000 -0500" channel="PERU MAGICO">
+    <title lang="es">Entre cuchillos y fuego</title>
+  </programme>
+  <programme start="20210820180000 -0500" stop="20210820183000 -0500" channel="PERU MAGICO">
+    <title lang="es">Celebra Perú</title>
+  </programme>
+  <programme start="20210820183000 -0500" stop="20210820190000 -0500" channel="PERU MAGICO">
+    <title lang="es">Cocina en un Toque</title>
+  </programme>
+  <programme start="20210820233000 -0500" stop="20210821000000 -0500" channel="PERU MAGICO">
+    <title lang="es">La 4ta pantalla</title>
+  </programme>
   <programme start="20210815003000 -0500" stop="20210815013000 -0500" channel="PERU MAGICO FHD">
     <title lang="es">Jamás perfectas</title>
   </programme>
@@ -12272,6 +12369,63 @@
   <programme start="20210818233000 -0500" stop="20210819000000 -0500" channel="PERU MAGICO FHD">
     <title lang="es">Entre cuchillos y fuego</title>
   </programme>
+  <programme start="20210819023000 -0500" stop="20210819030000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">Ximena en Casa</title>
+  </programme>
+  <programme start="20210819030000 -0500" stop="20210819033000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">Celebra Perú</title>
+  </programme>
+  <programme start="20210819033000 -0500" stop="20210819040000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">Dulces Secretos</title>
+  </programme>
+  <programme start="20210819040000 -0500" stop="20210819053000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">Al Ángulo</title>
+  </programme>
+  <programme start="20210819053000 -0500" stop="20210819060000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">La gran despensa</title>
+  </programme>
+  <programme start="20210819090000 -0500" stop="20210819093000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">Dulces Secretos</title>
+  </programme>
+  <programme start="20210819093000 -0500" stop="20210819100000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">Más rico</title>
+  </programme>
+  <programme start="20210819120000 -0500" stop="20210819123000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">Entre cuchillos y fuego</title>
+  </programme>
+  <programme start="20210819180000 -0500" stop="20210819183000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">La 4ta pantalla</title>
+  </programme>
+  <programme start="20210819183000 -0500" stop="20210819190000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">Ximena en Casa</title>
+  </programme>
+  <programme start="20210819233000 -0500" stop="20210820000000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">Dulces Secretos</title>
+  </programme>
+  <programme start="20210820033000 -0500" stop="20210820040000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">La 4ta pantalla</title>
+  </programme>
+  <programme start="20210820053000 -0500" stop="20210820060000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">Dulces Secretos</title>
+  </programme>
+  <programme start="20210820090000 -0500" stop="20210820093000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">Más rico</title>
+  </programme>
+  <programme start="20210820093000 -0500" stop="20210820100000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">La 4ta pantalla</title>
+  </programme>
+  <programme start="20210820120000 -0500" stop="20210820123000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">Entre cuchillos y fuego</title>
+  </programme>
+  <programme start="20210820180000 -0500" stop="20210820183000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">Celebra Perú</title>
+  </programme>
+  <programme start="20210820183000 -0500" stop="20210820190000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">Cocina en un Toque</title>
+  </programme>
+  <programme start="20210820233000 -0500" stop="20210821000000 -0500" channel="PERU MAGICO FHD">
+    <title lang="es">La 4ta pantalla</title>
+  </programme>
   <programme start="20210815003000 -0500" stop="20210815013000 -0500" channel="ESPN PERU 1 HD">
     <title lang="es">SportsCenter L.A</title>
   </programme>
@@ -12537,6 +12691,70 @@
   </programme>
   <programme start="20210818233000 -0500" stop="20210819003000 -0500" channel="ESPN PERU 1 HD">
     <title lang="es">SportsCenter L.A En Vivo</title>
+  </programme>
+  <programme start="20210819233000 -0500" stop="20210820003000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A En Vivo</title>
+  </programme>
+  <programme start="20210820013000 -0500" stop="20210820033000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">Atlético Mineiro vs. River Plate</title>
+  </programme>
+  <programme start="20210820033000 -0500" stop="20210820040000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20210820170000 -0500" stop="20210820191500 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN F90 Segunda edición En Vivo</title>
+  </programme>
+  <programme start="20210820191500 -0500" stop="20210820213000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">Barcelona vs. Fluminense En Vivo</title>
+  </programme>
+  <programme start="20210821023000 -0500" stop="20210821030000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20210821040000 -0500" stop="20210821050000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20210821050000 -0500" stop="20210821060000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20210821130000 -0500" stop="20210821135000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">ESPN F360 En Vivo</title>
+  </programme>
+  <programme start="20210821135000 -0500" stop="20210821160000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">Stade Brestois vs. Paris Saint-Germain En Vivo</title>
+  </programme>
+  <programme start="20210821160000 -0500" stop="20210821165000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+    <category lang="es">Fútbol Americano</category>
+    <category lang="es">Baloncesto</category>
+    <category lang="es">Béisbol</category>
+    <category lang="es">Básquetbol</category>
+    <category lang="es">Fútbol Italiano</category>
+    <category lang="es">Major League Baseball</category>
+    <category lang="es">Fútbol Mexicano</category>
+    <category lang="es">MLB</category>
+    <category lang="es">NBA</category>
+    <category lang="es">Noticias</category>
+    <category lang="es">NFL</category>
+    <category lang="es">Fútbol</category>
+    <category lang="es">UEFA</category>
+    <category lang="es">Fútbol Español</category>
+    <icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png" />
+  </programme>
+  <programme start="20210821165000 -0500" stop="20210821190000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">Fútbol Argentino Primera División En Vivo</title>
+  </programme>
+  <programme start="20210821190000 -0500" stop="20210821210000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter Sur En Vivo</title>
+  </programme>
+  <programme start="20210821210000 -0500" stop="20210821220000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20210821220000 -0500" stop="20210821230000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
+  </programme>
+  <programme start="20210821230000 -0500" stop="20210822000000 -0500" channel="ESPN PERU 1 HD">
+    <title lang="es">SportsCenter L.A</title>
   </programme>
   <programme start="20210815013000 -0500" stop="20210815023000 -0500" channel="ESPN PERU 2 HD">
     <title lang="es">Deportivo Alavés vs. Real Madrid</title>
@@ -12931,6 +13149,60 @@
   <programme start="20210819230000 -0500" stop="20210820010000 -0500" channel="FOX SPORTS PERU 1 SD">
     <title lang="es">UFC Clásicos</title>
   </programme>
+  <programme start="20210820020000 -0500" stop="20210820050000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">UFC Fight Night: Thompson vs. Pettis</title>
+  </programme>
+  <programme start="20210820050000 -0500" stop="20210820070000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">Palmeiras vs. Sao Paulo</title>
+  </programme>
+  <programme start="20210820090000 -0500" stop="20210820120000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">UFC Fight Night: Barboza vs. Gaethje</title>
+  </programme>
+  <programme start="20210820133000 -0500" stop="20210820160000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">Young Boys vs. Ferencvaros En Vivo</title>
+  </programme>
+  <programme start="20210820160000 -0500" stop="20210820190000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">UFC 240: Holloway vs. Edgar</title>
+  </programme>
+  <programme start="20210820190000 -0500" stop="20210820210000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">Young Boys vs. Ferencvaros</title>
+  </programme>
+  <programme start="20210820210000 -0500" stop="20210820230000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">Flamengo vs. Olimpia</title>
+  </programme>
+  <programme start="20210821020000 -0500" stop="20210821050000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">UFC Fight Night: Barboza vs. Gaethje</title>
+  </programme>
+  <programme start="20210821050000 -0500" stop="20210821070000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">Flamengo vs. Olimpia</title>
+  </programme>
+  <programme start="20210821090000 -0500" stop="20210821120000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">UFC Fight Night: Jacaré vs. Hermansson</title>
+  </programme>
+  <programme start="20210821130000 -0500" stop="20210821150000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">Atlético Mineiro vs. River Plate</title>
+  </programme>
+  <programme start="20210821150000 -0500" stop="20210821160000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20210821160000 -0500" stop="20210821170000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">The ultimate fighter</title>
+  </programme>
+  <programme start="20210821170000 -0500" stop="20210821180000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20210821180000 -0500" stop="20210821190000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">The ultimate fighter</title>
+  </programme>
+  <programme start="20210821190000 -0500" stop="20210821200000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">Final de Película</title>
+  </programme>
+  <programme start="20210821200000 -0500" stop="20210821210000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">Semifinal de Película</title>
+  </programme>
+  <programme start="20210821210000 -0500" stop="20210821230000 -0500" channel="FOX SPORTS PERU 1 SD">
+    <title lang="es">Fox Gol</title>
+  </programme>
   <programme start="20210815010000 -0500" stop="20210815020000 -0500" channel="FOX SPORTS PERU 1 HD">
     <title lang="es">Expediente fútbol</title>
   </programme>
@@ -13044,6 +13316,60 @@
   </programme>
   <programme start="20210819230000 -0500" stop="20210820010000 -0500" channel="FOX SPORTS PERU 1 HD">
     <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20210820020000 -0500" stop="20210820050000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">UFC Fight Night: Thompson vs. Pettis</title>
+  </programme>
+  <programme start="20210820050000 -0500" stop="20210820070000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">Palmeiras vs. Sao Paulo</title>
+  </programme>
+  <programme start="20210820090000 -0500" stop="20210820120000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">UFC Fight Night: Barboza vs. Gaethje</title>
+  </programme>
+  <programme start="20210820133000 -0500" stop="20210820160000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">Young Boys vs. Ferencvaros En Vivo</title>
+  </programme>
+  <programme start="20210820160000 -0500" stop="20210820190000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">UFC 240: Holloway vs. Edgar</title>
+  </programme>
+  <programme start="20210820190000 -0500" stop="20210820210000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">Young Boys vs. Ferencvaros</title>
+  </programme>
+  <programme start="20210820210000 -0500" stop="20210820230000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">Flamengo vs. Olimpia</title>
+  </programme>
+  <programme start="20210821020000 -0500" stop="20210821050000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">UFC Fight Night: Barboza vs. Gaethje</title>
+  </programme>
+  <programme start="20210821050000 -0500" stop="20210821070000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">Flamengo vs. Olimpia</title>
+  </programme>
+  <programme start="20210821090000 -0500" stop="20210821120000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">UFC Fight Night: Jacaré vs. Hermansson</title>
+  </programme>
+  <programme start="20210821130000 -0500" stop="20210821150000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">Atlético Mineiro vs. River Plate</title>
+  </programme>
+  <programme start="20210821150000 -0500" stop="20210821160000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20210821160000 -0500" stop="20210821170000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">The ultimate fighter</title>
+  </programme>
+  <programme start="20210821170000 -0500" stop="20210821180000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20210821180000 -0500" stop="20210821190000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">The ultimate fighter</title>
+  </programme>
+  <programme start="20210821190000 -0500" stop="20210821200000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">Final de Película</title>
+  </programme>
+  <programme start="20210821200000 -0500" stop="20210821210000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">Semifinal de Película</title>
+  </programme>
+  <programme start="20210821210000 -0500" stop="20210821230000 -0500" channel="FOX SPORTS PERU 1 HD">
+    <title lang="es">Fox Gol</title>
   </programme>
   <programme start="20210815003000 +0000" stop="20210815010000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
     <title lang="en">Hilos : Greg Louganis - Greg Louganis</title>
@@ -13354,6 +13680,83 @@
     <title lang="en">Peñarol vs. Sporting Cristal : Fútbol CONMEBOL Sudamericana - Peñarol vs. Sporting Cristal</title>
     <desc lang="en">Cuartos de final, vuelta. Peñarol recibe a Sporting Cristal en el Campeón del Siglo. En el juego de ida el equipo uruguayo se impuso por 3-1 con goles de Agustín Álvarez (8'), Torres (19') y Gargano (95'). Descontó para los celestes Merlo (90').(n)</desc>
   </programme>
+  <programme start="20210819001500 +0000" stop="20210819010000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">Conexión DIRECTV</title>
+    <desc lang="en">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+  </programme>
+  <programme start="20210819010000 +0000" stop="20210819013000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">DIRECTV Sports Gaming</title>
+    <desc lang="en">Diego Korol junto a Kevo, Dalcru y Carolo. Te traen la mejor información, entrevistas y todas las novedades del mundo gamer.(n)</desc>
+  </programme>
+  <programme start="20210819013000 +0000" stop="20210819020000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210819020000 +0000" stop="20210819033000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">De fútbol se habla así Perú</title>
+    <desc lang="en">Todo el análisis del mundo del fútbol, las noticias más actuales, las polémicas, información y mucho más.(n)</desc>
+  </programme>
+  <programme start="20210819033000 +0000" stop="20210819043000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">Conexión DIRECTV Perú</title>
+    <desc lang="en">Todo lo que hay que saber sobre el deporte nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20210819043000 +0000" stop="20210819060000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15284867/p15284867_b_v5_v1_cmd2.jpg" />
+  </programme>
+  <programme start="20210819060000 +0000" stop="20210819070000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">Conexión DIRECTV</title>
+    <desc lang="en">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+  </programme>
+  <programme start="20210819070000 +0000" stop="20210819090000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">Barcelona vs. Real Sociedad : Fútbol Español La Liga - Barcelona vs. Real Sociedad</title>
+    <desc lang="en">Jornada 1 de LaLiga 2021-2022. Barcelona recibe a Real Sociedad en el estadio Camp Nou. Los culés acumulan 13 partidos sin perder ante los donostiarras (10PG 3PE). La última derrota fue por 1-0 en 2016 con gol de Mikel Oyarzabal.(n)</desc>
+  </programme>
+  <programme start="20210819090000 +0000" stop="20210819110000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">Valencia vs. Getafe : Fútbol Español La Liga - Valencia vs. Getafe</title>
+    <desc lang="en">Jornada 1 de LaLiga 2021-2022. Valencia recibe a Getafe en el estadio Mestalla. Los azulones acumulan 5 partidos sin perder ante los ches (2PG 3PE). La última derrota fue por 3-1 en la Copa del Rey 2018-2019.(n)</desc>
+  </programme>
+  <programme start="20210819110000 +0000" stop="20210819120000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">Conexión DIRECTV</title>
+    <desc lang="en">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+  </programme>
+  <programme start="20210819120000 +0000" stop="20210819140000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">Barcelona vs. Real Sociedad : Fútbol Español La Liga - Barcelona vs. Real Sociedad</title>
+    <desc lang="en">Jornada 1 de LaLiga 2021-2022. Barcelona recibe a Real Sociedad en el estadio Camp Nou. Los culés acumulan 13 partidos sin perder ante los donostiarras (10PG 3PE). La última derrota fue por 1-0 en 2016 con gol de Mikel Oyarzabal.(n)</desc>
+  </programme>
+  <programme start="20210819140000 +0000" stop="20210819143000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">Hilos : Valentino Rossi - Valentino Rossi</title>
+    <desc lang="en">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.(n)</desc>
+  </programme>
+  <programme start="20210819143000 +0000" stop="20210819163000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">Osasuna vs. Espanyol : Fútbol Español La Liga - Osasuna vs. Espanyol</title>
+    <desc lang="en">Jornada 1 de LaLiga 2021-2022. Osasuna recibe a Espanyol en el estadio El Sadar. Los rojillos acumulan 3 victorias consecutivas ante los periquitos. La última derrota fue por 3-0 en 2017.(n)</desc>
+  </programme>
+  <programme start="20210819163000 +0000" stop="20210819180000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">Conexión DIRECTV</title>
+    <desc lang="en">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+  </programme>
+  <programme start="20210819180000 +0000" stop="20210819190000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">El juego</title>
+    <desc lang="en">Fernando Petrocelli y un grupo de destacados periodistas, representantes de cada país, integran este ciclo que tiene como misión informar sobre las ligas locales y mostrar lo más destacado de todos los eventos CONMEBOL.(n)</desc>
+  </programme>
+  <programme start="20210819190000 +0000" stop="20210819210000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">Cádiz vs. Levante : Fútbol Español La Liga - Cádiz vs. Levante</title>
+    <desc lang="en">Jornada 1 de LaLiga 2021-2022. Cádiz recibe a Levante en el estadio Ramón de Carranza. Los granotas acumulan 10 partidos sin caer el tiempo reglamentario ante el Submarino Amarillo (4PG 6PE) aunque perdieron por penales en la Copa del Rey 2016-2017.(n)</desc>
+  </programme>
+  <programme start="20210819210000 +0000" stop="20210819220000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
+  </programme>
+  <programme start="20210819220000 +0000" stop="20210819233000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+  </programme>
+  <programme start="20210819233000 +0000" stop="20210820000000 +0000" channel="DIRECTV SPORTS PERU 1 HD">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
   <programme start="20210815003000 +0000" stop="20210815010000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
     <title lang="en">Hilos : Greg Louganis - Greg Louganis</title>
     <desc lang="en">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.(n)</desc>
@@ -13663,6 +14066,83 @@
     <title lang="en">Peñarol vs. Sporting Cristal : Fútbol CONMEBOL Sudamericana - Peñarol vs. Sporting Cristal</title>
     <desc lang="en">Cuartos de final, vuelta. Peñarol recibe a Sporting Cristal en el Campeón del Siglo. En el juego de ida el equipo uruguayo se impuso por 3-1 con goles de Agustín Álvarez (8'), Torres (19') y Gargano (95'). Descontó para los celestes Merlo (90').(n)</desc>
   </programme>
+  <programme start="20210819001500 +0000" stop="20210819010000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">Conexión DIRECTV</title>
+    <desc lang="en">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+  </programme>
+  <programme start="20210819010000 +0000" stop="20210819013000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">DIRECTV Sports Gaming</title>
+    <desc lang="en">Diego Korol junto a Kevo, Dalcru y Carolo. Te traen la mejor información, entrevistas y todas las novedades del mundo gamer.(n)</desc>
+  </programme>
+  <programme start="20210819013000 +0000" stop="20210819020000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
+  <programme start="20210819020000 +0000" stop="20210819033000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">De fútbol se habla así Perú</title>
+    <desc lang="en">Todo el análisis del mundo del fútbol, las noticias más actuales, las polémicas, información y mucho más.(n)</desc>
+  </programme>
+  <programme start="20210819033000 +0000" stop="20210819043000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">Conexión DIRECTV Perú</title>
+    <desc lang="en">Todo lo que hay que saber sobre el deporte nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20210819043000 +0000" stop="20210819060000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+    <icon src="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/ShowCards/AllMADPhotos/15284867/p15284867_b_v5_v1_cmd2.jpg" />
+  </programme>
+  <programme start="20210819060000 +0000" stop="20210819070000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">Conexión DIRECTV</title>
+    <desc lang="en">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+  </programme>
+  <programme start="20210819070000 +0000" stop="20210819090000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">Barcelona vs. Real Sociedad : Fútbol Español La Liga - Barcelona vs. Real Sociedad</title>
+    <desc lang="en">Jornada 1 de LaLiga 2021-2022. Barcelona recibe a Real Sociedad en el estadio Camp Nou. Los culés acumulan 13 partidos sin perder ante los donostiarras (10PG 3PE). La última derrota fue por 1-0 en 2016 con gol de Mikel Oyarzabal.(n)</desc>
+  </programme>
+  <programme start="20210819090000 +0000" stop="20210819110000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">Valencia vs. Getafe : Fútbol Español La Liga - Valencia vs. Getafe</title>
+    <desc lang="en">Jornada 1 de LaLiga 2021-2022. Valencia recibe a Getafe en el estadio Mestalla. Los azulones acumulan 5 partidos sin perder ante los ches (2PG 3PE). La última derrota fue por 3-1 en la Copa del Rey 2018-2019.(n)</desc>
+  </programme>
+  <programme start="20210819110000 +0000" stop="20210819120000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">Conexión DIRECTV</title>
+    <desc lang="en">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+  </programme>
+  <programme start="20210819120000 +0000" stop="20210819140000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">Barcelona vs. Real Sociedad : Fútbol Español La Liga - Barcelona vs. Real Sociedad</title>
+    <desc lang="en">Jornada 1 de LaLiga 2021-2022. Barcelona recibe a Real Sociedad en el estadio Camp Nou. Los culés acumulan 13 partidos sin perder ante los donostiarras (10PG 3PE). La última derrota fue por 1-0 en 2016 con gol de Mikel Oyarzabal.(n)</desc>
+  </programme>
+  <programme start="20210819140000 +0000" stop="20210819143000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">Hilos : Valentino Rossi - Valentino Rossi</title>
+    <desc lang="en">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.(n)</desc>
+  </programme>
+  <programme start="20210819143000 +0000" stop="20210819163000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">Osasuna vs. Espanyol : Fútbol Español La Liga - Osasuna vs. Espanyol</title>
+    <desc lang="en">Jornada 1 de LaLiga 2021-2022. Osasuna recibe a Espanyol en el estadio El Sadar. Los rojillos acumulan 3 victorias consecutivas ante los periquitos. La última derrota fue por 3-0 en 2017.(n)</desc>
+  </programme>
+  <programme start="20210819163000 +0000" stop="20210819180000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">Conexión DIRECTV</title>
+    <desc lang="en">El noticiero deportivo más completo de la región con la actualidad de cada disciplina y las novedades de las ligas más importantes del planeta. La información al instante y la palabra de los protagonistas en primera persona.(n)</desc>
+  </programme>
+  <programme start="20210819180000 +0000" stop="20210819190000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">El juego</title>
+    <desc lang="en">Fernando Petrocelli y un grupo de destacados periodistas, representantes de cada país, integran este ciclo que tiene como misión informar sobre las ligas locales y mostrar lo más destacado de todos los eventos CONMEBOL.(n)</desc>
+  </programme>
+  <programme start="20210819190000 +0000" stop="20210819210000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">Cádiz vs. Levante : Fútbol Español La Liga - Cádiz vs. Levante</title>
+    <desc lang="en">Jornada 1 de LaLiga 2021-2022. Cádiz recibe a Levante en el estadio Ramón de Carranza. Los granotas acumulan 10 partidos sin caer el tiempo reglamentario ante el Submarino Amarillo (4PG 6PE) aunque perdieron por penales en la Copa del Rey 2016-2017.(n)</desc>
+  </programme>
+  <programme start="20210819210000 +0000" stop="20210819220000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">Real Madrid TV</title>
+    <desc lang="en">Información del equipo, entrevistas, reportajes, noticias y resúmenes de los partidos. Análisis y debate sobre todas las competiciones tanto de la sección de fútbol como de la de baloncesto.(n)</desc>
+  </programme>
+  <programme start="20210819220000 +0000" stop="20210819233000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">Fútbol Total</title>
+    <desc lang="en">Fútbol Total es el show futbolero más divertido de América Latina. El gran plantel de profesionales informa y analiza con un toque de humor las novedades de las ligas más relevantes del mundo.(n)</desc>
+  </programme>
+  <programme start="20210819233000 +0000" stop="20210820000000 +0000" channel="DIRECTV SPORTS PERU 1 SD">
+    <title lang="en">Todo en 30</title>
+    <desc lang="en">En treinta minutos repaso de los mejores eventos deportivos. Lo más destacado de fútbol, básquet, tenis y todos los eventos que se transmitan en la pantalla de DirecTV Sports.(n)</desc>
+  </programme>
   <programme start="20210815010000 -0500" stop="20210815060000 -0500" channel="CANAL 13">
     <title lang="es">Cierra</title>
   </programme>
@@ -13683,5 +14163,1038 @@
   </programme>
   <programme start="20210815160000 -0500" stop="20210815193000 -0500" channel="CANAL 13">
     <title lang="es">¡Tu decides</title>
+  </programme>
+  <programme start="20210815010000 -0500" stop="20210815060000 -0500" channel="CANAL 13 HD">
+    <title lang="es">Cierra</title>
+  </programme>
+  <programme start="20210815060000 -0500" stop="20210815070000 -0500" channel="CANAL 13 HD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210815070000 -0500" stop="20210815120000 -0500" channel="CANAL 13 HD">
+    <title lang="es">¡Tu decides</title>
+  </programme>
+  <programme start="20210815120000 -0500" stop="20210815140000 -0500" channel="CANAL 13 HD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210815140000 -0500" stop="20210815153000 -0500" channel="CANAL 13 HD">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20210815153000 -0500" stop="20210815160000 -0500" channel="CANAL 13 HD">
+    <title lang="es">¡Tu decides</title>
+  </programme>
+  <programme start="20210815160000 -0500" stop="20210815193000 -0500" channel="CANAL 13 HD">
+    <title lang="es">¡Tu decides</title>
+  </programme>
+  <programme start="20210815010000 -0500" stop="20210815060000 -0500" channel="CANAL 13 SD">
+    <title lang="es">Cierra</title>
+  </programme>
+  <programme start="20210815060000 -0500" stop="20210815070000 -0500" channel="CANAL 13 SD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210815070000 -0500" stop="20210815120000 -0500" channel="CANAL 13 SD">
+    <title lang="es">¡Tu decides</title>
+  </programme>
+  <programme start="20210815120000 -0500" stop="20210815140000 -0500" channel="CANAL 13 SD">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20210815140000 -0500" stop="20210815153000 -0500" channel="CANAL 13 SD">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20210815153000 -0500" stop="20210815160000 -0500" channel="CANAL 13 SD">
+    <title lang="es">¡Tu decides</title>
+  </programme>
+  <programme start="20210815160000 -0500" stop="20210815193000 -0500" channel="CANAL 13 SD">
+    <title lang="es">¡Tu decides</title>
+  </programme>
+  <programme start="20210815001500 -0500" stop="20210815013000 -0500" channel="CHILEVISION">
+    <title lang="es">La divina comida -Tarde</title>
+  </programme>
+  <programme start="20210815013000 -0500" stop="20210815060000 -0500" channel="CHILEVISION">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20210815060000 -0500" stop="20210815070000 -0500" channel="CHILEVISION">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210815070000 -0500" stop="20210815073000 -0500" channel="CHILEVISION">
+    <title lang="es">Parrilleros</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210815073000 -0500" stop="20210815110000 -0500" channel="CHILEVISION">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210815110000 -0500" stop="20210815120000 -0500" channel="CHILEVISION">
+    <title lang="es">CHV Noticas AM - Fin de semana</title>
+  </programme>
+  <programme start="20210815120000 -0500" stop="20210815140000 -0500" channel="CHILEVISION">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210815140000 -0500" stop="20210815170000 -0500" channel="CHILEVISION">
+    <title lang="es">Sabingo</title>
+    <episode-num system="onscreen">E542</episode-num>
+  </programme>
+  <programme start="20210815170000 -0500" stop="20210815193000 -0500" channel="CHILEVISION">
+    <title lang="es">Sabingo</title>
+    <episode-num system="onscreen">E543</episode-num>
+  </programme>
+  <programme start="20210815193000 -0500" stop="20210815213000 -0500" channel="CHILEVISION">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210815213000 -0500" stop="20210816000000 -0500" channel="CHILEVISION">
+    <title lang="es">Debate presidencial</title>
+  </programme>
+  <programme start="20210816000000 -0500" stop="20210816011500 -0500" channel="CHILEVISION">
+    <title lang="es">Pero con respeto grandes momentos</title>
+  </programme>
+  <programme start="20210816011500 -0500" stop="20210816050000 -0500" channel="CHILEVISION">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20210816050000 -0500" stop="20210816053000 -0500" channel="CHILEVISION">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20210816053000 -0500" stop="20210816070000 -0500" channel="CHILEVISION">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210816070000 -0500" stop="20210816120000 -0500" channel="CHILEVISION">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20210816120000 -0500" stop="20210816143000 -0500" channel="CHILEVISION">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210816143000 -0500" stop="20210816160500 -0500" channel="CHILEVISION">
+    <title lang="es">Contigo en Directo</title>
+  </programme>
+  <programme start="20210816160500 -0500" stop="20210816171500 -0500" channel="CHILEVISION">
+    <title lang="es">El secreto de Feriha</title>
+  </programme>
+  <programme start="20210816171500 -0500" stop="20210816193000 -0500" channel="CHILEVISION">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20210816193000 -0500" stop="20210816213000 -0500" channel="CHILEVISION">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210816213000 -0500" stop="20210816234500 -0500" channel="CHILEVISION">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20210816234500 -0500" stop="20210817003000 -0500" channel="CHILEVISION">
+    <title lang="es">La divina comida</title>
+  </programme>
+  <programme start="20210817234500 -0500" stop="20210818003000 -0500" channel="CHILEVISION">
+    <title lang="es">La divina comida</title>
+  </programme>
+  <programme start="20210818003000 -0500" stop="20210818053000 -0500" channel="CHILEVISION">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20210818053000 -0500" stop="20210818070000 -0500" channel="CHILEVISION">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210818070000 -0500" stop="20210818120000 -0500" channel="CHILEVISION">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20210818120000 -0500" stop="20210818143000 -0500" channel="CHILEVISION">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210818143000 -0500" stop="20210818160500 -0500" channel="CHILEVISION">
+    <title lang="es">Contigo en Directo</title>
+  </programme>
+  <programme start="20210818160500 -0500" stop="20210818171500 -0500" channel="CHILEVISION">
+    <title lang="es">El secreto de Feriha</title>
+  </programme>
+  <programme start="20210818171500 -0500" stop="20210818193000 -0500" channel="CHILEVISION">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20210818213000 -0500" stop="20210818234500 -0500" channel="CHILEVISION">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20210815001500 -0500" stop="20210815013000 -0500" channel="CHILEVISION HD">
+    <title lang="es">La divina comida -Tarde</title>
+  </programme>
+  <programme start="20210815013000 -0500" stop="20210815060000 -0500" channel="CHILEVISION HD">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20210815060000 -0500" stop="20210815070000 -0500" channel="CHILEVISION HD">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210815070000 -0500" stop="20210815073000 -0500" channel="CHILEVISION HD">
+    <title lang="es">Parrilleros</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210815073000 -0500" stop="20210815110000 -0500" channel="CHILEVISION HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210815110000 -0500" stop="20210815120000 -0500" channel="CHILEVISION HD">
+    <title lang="es">CHV Noticas AM - Fin de semana</title>
+  </programme>
+  <programme start="20210815120000 -0500" stop="20210815140000 -0500" channel="CHILEVISION HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210815140000 -0500" stop="20210815170000 -0500" channel="CHILEVISION HD">
+    <title lang="es">Sabingo</title>
+    <episode-num system="onscreen">E542</episode-num>
+  </programme>
+  <programme start="20210815170000 -0500" stop="20210815193000 -0500" channel="CHILEVISION HD">
+    <title lang="es">Sabingo</title>
+    <episode-num system="onscreen">E543</episode-num>
+  </programme>
+  <programme start="20210815193000 -0500" stop="20210815213000 -0500" channel="CHILEVISION HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210815213000 -0500" stop="20210816000000 -0500" channel="CHILEVISION HD">
+    <title lang="es">Debate presidencial</title>
+  </programme>
+  <programme start="20210816000000 -0500" stop="20210816011500 -0500" channel="CHILEVISION HD">
+    <title lang="es">Pero con respeto grandes momentos</title>
+  </programme>
+  <programme start="20210816011500 -0500" stop="20210816050000 -0500" channel="CHILEVISION HD">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20210816050000 -0500" stop="20210816053000 -0500" channel="CHILEVISION HD">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20210816053000 -0500" stop="20210816070000 -0500" channel="CHILEVISION HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210816070000 -0500" stop="20210816120000 -0500" channel="CHILEVISION HD">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20210816120000 -0500" stop="20210816143000 -0500" channel="CHILEVISION HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210816143000 -0500" stop="20210816160500 -0500" channel="CHILEVISION HD">
+    <title lang="es">Contigo en Directo</title>
+  </programme>
+  <programme start="20210816160500 -0500" stop="20210816171500 -0500" channel="CHILEVISION HD">
+    <title lang="es">El secreto de Feriha</title>
+  </programme>
+  <programme start="20210816171500 -0500" stop="20210816193000 -0500" channel="CHILEVISION HD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20210816193000 -0500" stop="20210816213000 -0500" channel="CHILEVISION HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210816213000 -0500" stop="20210816234500 -0500" channel="CHILEVISION HD">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20210816234500 -0500" stop="20210817003000 -0500" channel="CHILEVISION HD">
+    <title lang="es">La divina comida</title>
+  </programme>
+  <programme start="20210817234500 -0500" stop="20210818003000 -0500" channel="CHILEVISION HD">
+    <title lang="es">La divina comida</title>
+  </programme>
+  <programme start="20210818003000 -0500" stop="20210818053000 -0500" channel="CHILEVISION HD">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20210818053000 -0500" stop="20210818070000 -0500" channel="CHILEVISION HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210818070000 -0500" stop="20210818120000 -0500" channel="CHILEVISION HD">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20210818120000 -0500" stop="20210818143000 -0500" channel="CHILEVISION HD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210818143000 -0500" stop="20210818160500 -0500" channel="CHILEVISION HD">
+    <title lang="es">Contigo en Directo</title>
+  </programme>
+  <programme start="20210818160500 -0500" stop="20210818171500 -0500" channel="CHILEVISION HD">
+    <title lang="es">El secreto de Feriha</title>
+  </programme>
+  <programme start="20210818171500 -0500" stop="20210818193000 -0500" channel="CHILEVISION HD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20210818213000 -0500" stop="20210818234500 -0500" channel="CHILEVISION HD">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20210815001500 -0500" stop="20210815013000 -0500" channel="CHILEVISION SD">
+    <title lang="es">La divina comida -Tarde</title>
+  </programme>
+  <programme start="20210815013000 -0500" stop="20210815060000 -0500" channel="CHILEVISION SD">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20210815060000 -0500" stop="20210815070000 -0500" channel="CHILEVISION SD">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210815070000 -0500" stop="20210815073000 -0500" channel="CHILEVISION SD">
+    <title lang="es">Parrilleros</title>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210815073000 -0500" stop="20210815110000 -0500" channel="CHILEVISION SD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210815110000 -0500" stop="20210815120000 -0500" channel="CHILEVISION SD">
+    <title lang="es">CHV Noticas AM - Fin de semana</title>
+  </programme>
+  <programme start="20210815120000 -0500" stop="20210815140000 -0500" channel="CHILEVISION SD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210815140000 -0500" stop="20210815170000 -0500" channel="CHILEVISION SD">
+    <title lang="es">Sabingo</title>
+    <episode-num system="onscreen">E542</episode-num>
+  </programme>
+  <programme start="20210815170000 -0500" stop="20210815193000 -0500" channel="CHILEVISION SD">
+    <title lang="es">Sabingo</title>
+    <episode-num system="onscreen">E543</episode-num>
+  </programme>
+  <programme start="20210815193000 -0500" stop="20210815213000 -0500" channel="CHILEVISION SD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210815213000 -0500" stop="20210816000000 -0500" channel="CHILEVISION SD">
+    <title lang="es">Debate presidencial</title>
+  </programme>
+  <programme start="20210816000000 -0500" stop="20210816011500 -0500" channel="CHILEVISION SD">
+    <title lang="es">Pero con respeto grandes momentos</title>
+  </programme>
+  <programme start="20210816011500 -0500" stop="20210816050000 -0500" channel="CHILEVISION SD">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20210816050000 -0500" stop="20210816053000 -0500" channel="CHILEVISION SD">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20210816053000 -0500" stop="20210816070000 -0500" channel="CHILEVISION SD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210816070000 -0500" stop="20210816120000 -0500" channel="CHILEVISION SD">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20210816120000 -0500" stop="20210816143000 -0500" channel="CHILEVISION SD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210816143000 -0500" stop="20210816160500 -0500" channel="CHILEVISION SD">
+    <title lang="es">Contigo en Directo</title>
+  </programme>
+  <programme start="20210816160500 -0500" stop="20210816171500 -0500" channel="CHILEVISION SD">
+    <title lang="es">El secreto de Feriha</title>
+  </programme>
+  <programme start="20210816171500 -0500" stop="20210816193000 -0500" channel="CHILEVISION SD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20210816193000 -0500" stop="20210816213000 -0500" channel="CHILEVISION SD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210816213000 -0500" stop="20210816234500 -0500" channel="CHILEVISION SD">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20210816234500 -0500" stop="20210817003000 -0500" channel="CHILEVISION SD">
+    <title lang="es">La divina comida</title>
+  </programme>
+  <programme start="20210817234500 -0500" stop="20210818003000 -0500" channel="CHILEVISION SD">
+    <title lang="es">La divina comida</title>
+  </programme>
+  <programme start="20210818003000 -0500" stop="20210818053000 -0500" channel="CHILEVISION SD">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20210818053000 -0500" stop="20210818070000 -0500" channel="CHILEVISION SD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210818070000 -0500" stop="20210818120000 -0500" channel="CHILEVISION SD">
+    <title lang="es">Contigo en la mañana</title>
+  </programme>
+  <programme start="20210818120000 -0500" stop="20210818143000 -0500" channel="CHILEVISION SD">
+    <title lang="es">CHV Noticias</title>
+  </programme>
+  <programme start="20210818143000 -0500" stop="20210818160500 -0500" channel="CHILEVISION SD">
+    <title lang="es">Contigo en Directo</title>
+  </programme>
+  <programme start="20210818160500 -0500" stop="20210818171500 -0500" channel="CHILEVISION SD">
+    <title lang="es">El secreto de Feriha</title>
+  </programme>
+  <programme start="20210818171500 -0500" stop="20210818193000 -0500" channel="CHILEVISION SD">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20210818213000 -0500" stop="20210818234500 -0500" channel="CHILEVISION SD">
+    <title lang="es">Yo soy</title>
+  </programme>
+  <programme start="20210815010000 -0500" stop="20210815014500 -0500" channel="LA RED HD">
+    <title lang="es">The Messengers</title>
+  </programme>
+  <programme start="20210815014500 -0500" stop="20210815023000 -0500" channel="LA RED HD">
+    <title lang="es">The Messengers</title>
+  </programme>
+  <programme start="20210815023000 -0500" stop="20210815030000 -0500" channel="LA RED HD">
+    <title lang="es">Chile Sustentable</title>
+  </programme>
+  <programme start="20210815030000 -0500" stop="20210815040000 -0500" channel="LA RED HD">
+    <title lang="es">Cierre de transmisiones</title>
+  </programme>
+  <programme start="20210815040000 -0500" stop="20210815073000 -0500" channel="LA RED HD">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210815073000 -0500" stop="20210815120000 -0500" channel="LA RED HD">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20210815120000 -0500" stop="20210815161500 -0500" channel="LA RED HD">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210815161500 -0500" stop="20210815170000 -0500" channel="LA RED HD">
+    <title lang="es">Plaza Sesamo</title>
+  </programme>
+  <programme start="20210815170000 -0500" stop="20210815190000 -0500" channel="LA RED HD">
+    <title lang="es">Mes de la Cultura Teatro Municipal de Santiago</title>
+  </programme>
+  <programme start="20210815190000 -0500" stop="20210815210000 -0500" channel="LA RED HD">
+    <title lang="es">Café Cargado</title>
+  </programme>
+  <programme start="20210815210000 -0500" stop="20210815230000 -0500" channel="LA RED HD">
+    <title lang="es">Pauta Libre</title>
+  </programme>
+  <programme start="20210815230000 -0500" stop="20210815233000 -0500" channel="LA RED HD">
+    <title lang="es">The Gringo Show en La Red</title>
+  </programme>
+  <programme start="20210815233000 -0500" stop="20210816013000 -0500" channel="LA RED HD">
+    <title lang="es">NCIS: Los Ángeles</title>
+    <title lang="xx">NCIS: Los Angeles</title>
+    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
+    <credits>
+      <actor>Chris O'Donnell</actor>
+      <actor>Peter Cambor</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Adam Jamal Craig</actor>
+      <actor>LL Cool J</actor>
+      <actor>Linda Hunt</actor>
+      <actor>Barrett Foa</actor>
+      <actor>Eric Christian Olsen</actor>
+      <composer>James S. Levine</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_los_angeles.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210816233000 -0500" stop="20210817013000 -0500" channel="LA RED HD">
+    <title lang="es">NCIS: Los Ángeles</title>
+    <title lang="xx">NCIS: Los Angeles</title>
+    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
+    <credits>
+      <actor>Chris O'Donnell</actor>
+      <actor>Peter Cambor</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Adam Jamal Craig</actor>
+      <actor>LL Cool J</actor>
+      <actor>Linda Hunt</actor>
+      <actor>Barrett Foa</actor>
+      <actor>Eric Christian Olsen</actor>
+      <composer>James S. Levine</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_los_angeles.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210817013000 -0500" stop="20210817023000 -0500" channel="LA RED HD">
+    <title lang="es">Aguila roja</title>
+  </programme>
+  <programme start="20210817023000 -0500" stop="20210817033000 -0500" channel="LA RED HD">
+    <title lang="es">Sex and the City</title>
+  </programme>
+  <programme start="20210817033000 -0500" stop="20210817043000 -0500" channel="LA RED HD">
+    <title lang="es">Cierre de transmisiones</title>
+  </programme>
+  <programme start="20210817043000 -0500" stop="20210817100000 -0500" channel="LA RED HD">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210817100000 -0500" stop="20210817140000 -0500" channel="LA RED HD">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20210817140000 -0500" stop="20210817143000 -0500" channel="LA RED HD">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210817143000 -0500" stop="20210817180000 -0500" channel="LA RED HD">
+    <title lang="es">La tarde con Hola, Chile</title>
+  </programme>
+  <programme start="20210817180000 -0500" stop="20210817190000 -0500" channel="LA RED HD">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210817190000 -0500" stop="20210817210000 -0500" channel="LA RED HD">
+    <title lang="es">La Red deportes</title>
+  </programme>
+  <programme start="20210817210000 -0500" stop="20210817233000 -0500" channel="LA RED HD">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210817233000 -0500" stop="20210818010000 -0500" channel="LA RED HD">
+    <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20210818233000 -0500" stop="20210819010000 -0500" channel="LA RED HD">
+    <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20210819010000 -0500" stop="20210819020000 -0500" channel="LA RED HD">
+    <title lang="es">Grandes Mentiras Verdaderas Cultural</title>
+  </programme>
+  <programme start="20210819020000 -0500" stop="20210819043000 -0500" channel="LA RED HD">
+    <title lang="es">Cierre de transmisiones</title>
+  </programme>
+  <programme start="20210819043000 -0500" stop="20210819100000 -0500" channel="LA RED HD">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210819100000 -0500" stop="20210819140000 -0500" channel="LA RED HD">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20210819140000 -0500" stop="20210819143000 -0500" channel="LA RED HD">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210819143000 -0500" stop="20210819183000 -0500" channel="LA RED HD">
+    <title lang="es">La tarde con Hola, Chile</title>
+  </programme>
+  <programme start="20210819183000 -0500" stop="20210819200000 -0500" channel="LA RED HD">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210819200000 -0500" stop="20210819202500 -0500" channel="LA RED HD">
+    <title lang="es">Lazos de sangre</title>
+  </programme>
+  <programme start="20210819202500 -0500" stop="20210819210000 -0500" channel="LA RED HD">
+    <title lang="es">Lazos de sangre</title>
+  </programme>
+  <programme start="20210819210000 -0500" stop="20210819230000 -0500" channel="LA RED HD">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210819230000 -0500" stop="20210819233000 -0500" channel="LA RED HD">
+    <title lang="es">Candidatos último debate</title>
+  </programme>
+  <programme start="20210819233000 -0500" stop="20210820000000 -0500" channel="LA RED HD">
+    <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20210820000000 -0500" stop="20210820010000 -0500" channel="LA RED HD">
+    <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20210820010000 -0500" stop="20210820013000 -0500" channel="LA RED HD">
+    <title lang="es">Grandes Mentiras Verdaderas Cultural</title>
+  </programme>
+  <programme start="20210820013000 -0500" stop="20210820020000 -0500" channel="LA RED HD">
+    <title lang="es">Grandes Mentiras Verdaderas Cultural</title>
+  </programme>
+  <programme start="20210820020000 -0500" stop="20210820023000 -0500" channel="LA RED HD">
+    <title lang="es">Cierre de transmisiones</title>
+  </programme>
+  <programme start="20210820023000 -0500" stop="20210820043000 -0500" channel="LA RED HD">
+    <title lang="es">Cierre de transmisiones</title>
+  </programme>
+  <programme start="20210815010000 -0500" stop="20210815014500 -0500" channel="LA RED SD">
+    <title lang="es">The Messengers</title>
+  </programme>
+  <programme start="20210815014500 -0500" stop="20210815023000 -0500" channel="LA RED SD">
+    <title lang="es">The Messengers</title>
+  </programme>
+  <programme start="20210815023000 -0500" stop="20210815030000 -0500" channel="LA RED SD">
+    <title lang="es">Chile Sustentable</title>
+  </programme>
+  <programme start="20210815030000 -0500" stop="20210815040000 -0500" channel="LA RED SD">
+    <title lang="es">Cierre de transmisiones</title>
+  </programme>
+  <programme start="20210815040000 -0500" stop="20210815073000 -0500" channel="LA RED SD">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210815073000 -0500" stop="20210815120000 -0500" channel="LA RED SD">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20210815120000 -0500" stop="20210815161500 -0500" channel="LA RED SD">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210815161500 -0500" stop="20210815170000 -0500" channel="LA RED SD">
+    <title lang="es">Plaza Sesamo</title>
+  </programme>
+  <programme start="20210815170000 -0500" stop="20210815190000 -0500" channel="LA RED SD">
+    <title lang="es">Mes de la Cultura Teatro Municipal de Santiago</title>
+  </programme>
+  <programme start="20210815190000 -0500" stop="20210815210000 -0500" channel="LA RED SD">
+    <title lang="es">Café Cargado</title>
+  </programme>
+  <programme start="20210815210000 -0500" stop="20210815230000 -0500" channel="LA RED SD">
+    <title lang="es">Pauta Libre</title>
+  </programme>
+  <programme start="20210815230000 -0500" stop="20210815233000 -0500" channel="LA RED SD">
+    <title lang="es">The Gringo Show en La Red</title>
+  </programme>
+  <programme start="20210815233000 -0500" stop="20210816013000 -0500" channel="LA RED SD">
+    <title lang="es">NCIS: Los Ángeles</title>
+    <title lang="xx">NCIS: Los Angeles</title>
+    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
+    <credits>
+      <actor>Chris O'Donnell</actor>
+      <actor>Peter Cambor</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Adam Jamal Craig</actor>
+      <actor>LL Cool J</actor>
+      <actor>Linda Hunt</actor>
+      <actor>Barrett Foa</actor>
+      <actor>Eric Christian Olsen</actor>
+      <composer>James S. Levine</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_los_angeles.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210816233000 -0500" stop="20210817013000 -0500" channel="LA RED SD">
+    <title lang="es">NCIS: Los Ángeles</title>
+    <title lang="xx">NCIS: Los Angeles</title>
+    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
+    <credits>
+      <actor>Chris O'Donnell</actor>
+      <actor>Peter Cambor</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Adam Jamal Craig</actor>
+      <actor>LL Cool J</actor>
+      <actor>Linda Hunt</actor>
+      <actor>Barrett Foa</actor>
+      <actor>Eric Christian Olsen</actor>
+      <composer>James S. Levine</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ncis_los_angeles.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210817013000 -0500" stop="20210817023000 -0500" channel="LA RED SD">
+    <title lang="es">Aguila roja</title>
+  </programme>
+  <programme start="20210817023000 -0500" stop="20210817033000 -0500" channel="LA RED SD">
+    <title lang="es">Sex and the City</title>
+  </programme>
+  <programme start="20210817033000 -0500" stop="20210817043000 -0500" channel="LA RED SD">
+    <title lang="es">Cierre de transmisiones</title>
+  </programme>
+  <programme start="20210817043000 -0500" stop="20210817100000 -0500" channel="LA RED SD">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210817100000 -0500" stop="20210817140000 -0500" channel="LA RED SD">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20210817140000 -0500" stop="20210817143000 -0500" channel="LA RED SD">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210817143000 -0500" stop="20210817180000 -0500" channel="LA RED SD">
+    <title lang="es">La tarde con Hola, Chile</title>
+  </programme>
+  <programme start="20210817180000 -0500" stop="20210817190000 -0500" channel="LA RED SD">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210817190000 -0500" stop="20210817210000 -0500" channel="LA RED SD">
+    <title lang="es">La Red deportes</title>
+  </programme>
+  <programme start="20210817210000 -0500" stop="20210817233000 -0500" channel="LA RED SD">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210817233000 -0500" stop="20210818010000 -0500" channel="LA RED SD">
+    <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20210818233000 -0500" stop="20210819010000 -0500" channel="LA RED SD">
+    <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20210819010000 -0500" stop="20210819020000 -0500" channel="LA RED SD">
+    <title lang="es">Grandes Mentiras Verdaderas Cultural</title>
+  </programme>
+  <programme start="20210819020000 -0500" stop="20210819043000 -0500" channel="LA RED SD">
+    <title lang="es">Cierre de transmisiones</title>
+  </programme>
+  <programme start="20210819043000 -0500" stop="20210819100000 -0500" channel="LA RED SD">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210819100000 -0500" stop="20210819140000 -0500" channel="LA RED SD">
+    <title lang="es">Antena 3D</title>
+  </programme>
+  <programme start="20210819140000 -0500" stop="20210819143000 -0500" channel="LA RED SD">
+    <title lang="es">Swiss Nature Labs</title>
+  </programme>
+  <programme start="20210819143000 -0500" stop="20210819183000 -0500" channel="LA RED SD">
+    <title lang="es">La tarde con Hola, Chile</title>
+  </programme>
+  <programme start="20210819183000 -0500" stop="20210819200000 -0500" channel="LA RED SD">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20210819200000 -0500" stop="20210819202500 -0500" channel="LA RED SD">
+    <title lang="es">Lazos de sangre</title>
+  </programme>
+  <programme start="20210819202500 -0500" stop="20210819210000 -0500" channel="LA RED SD">
+    <title lang="es">Lazos de sangre</title>
+  </programme>
+  <programme start="20210819210000 -0500" stop="20210819230000 -0500" channel="LA RED SD">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210819230000 -0500" stop="20210819233000 -0500" channel="LA RED SD">
+    <title lang="es">Candidatos último debate</title>
+  </programme>
+  <programme start="20210819233000 -0500" stop="20210820000000 -0500" channel="LA RED SD">
+    <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20210820000000 -0500" stop="20210820010000 -0500" channel="LA RED SD">
+    <title lang="es">Así somos</title>
+  </programme>
+  <programme start="20210820010000 -0500" stop="20210820013000 -0500" channel="LA RED SD">
+    <title lang="es">Grandes Mentiras Verdaderas Cultural</title>
+  </programme>
+  <programme start="20210820013000 -0500" stop="20210820020000 -0500" channel="LA RED SD">
+    <title lang="es">Grandes Mentiras Verdaderas Cultural</title>
+  </programme>
+  <programme start="20210820020000 -0500" stop="20210820023000 -0500" channel="LA RED SD">
+    <title lang="es">Cierre de transmisiones</title>
+  </programme>
+  <programme start="20210820023000 -0500" stop="20210820043000 -0500" channel="LA RED SD">
+    <title lang="es">Cierre de transmisiones</title>
+  </programme>
+  <programme start="20210815064500 -0500" stop="20210815070000 -0500" channel="MEGA">
+    <title lang="es">Pabellón de la Construcción TV</title>
+  </programme>
+  <programme start="20210815070000 -0500" stop="20210815120000 -0500" channel="MEGA">
+    <title lang="es">Especial de Prensa</title>
+  </programme>
+  <programme start="20210815120000 -0500" stop="20210815140000 -0500" channel="MEGA">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20210815140000 -0500" stop="20210815151500 -0500" channel="MEGA">
+    <title lang="es">Seleccion nacional</title>
+  </programme>
+  <programme start="20210815151500 -0500" stop="20210815162000 -0500" channel="MEGA">
+    <title lang="es">Comer y sanar</title>
+  </programme>
+  <programme start="20210815162000 -0500" stop="20210815181000 -0500" channel="MEGA">
+    <title lang="es">Got Talent Chile</title>
+  </programme>
+  <programme start="20210815181000 -0500" stop="20210815193000 -0500" channel="MEGA">
+    <title lang="es">Mi Barrio</title>
+  </programme>
+  <programme start="20210815193000 -0500" stop="20210815211500 -0500" channel="MEGA">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210815211500 -0500" stop="20210815212500 -0500" channel="MEGA">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210815212500 -0500" stop="20210815213000 -0500" channel="MEGA">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210815213000 -0500" stop="20210815230000 -0500" channel="MEGA">
+    <title lang="es">Modus Operandi</title>
+  </programme>
+  <programme start="20210815230000 -0500" stop="20210816003000 -0500" channel="MEGA">
+    <title lang="es">Lo mejor de Demente</title>
+  </programme>
+  <programme start="20210816003000 -0500" stop="20210816044500 -0500" channel="MEGA">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210816044500 -0500" stop="20210816053000 -0500" channel="MEGA">
+    <title lang="es">Meganoticias amanece</title>
+  </programme>
+  <programme start="20210816053000 -0500" stop="20210816070000 -0500" channel="MEGA">
+    <title lang="es">Meganoticias conecta</title>
+  </programme>
+  <programme start="20210816070000 -0500" stop="20210816120000 -0500" channel="MEGA">
+    <title lang="es">Mucho gusto</title>
+  </programme>
+  <programme start="20210816120000 -0500" stop="20210816142500 -0500" channel="MEGA">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20210816142500 -0500" stop="20210816143000 -0500" channel="MEGA">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210816143000 -0500" stop="20210816151500 -0500" channel="MEGA">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210816151500 -0500" stop="20210816160000 -0500" channel="MEGA">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210816160000 -0500" stop="20210816170000 -0500" channel="MEGA">
+    <title lang="es">Zuleyha</title>
+  </programme>
+  <programme start="20210816170000 -0500" stop="20210816175000 -0500" channel="MEGA">
+    <title lang="es">La hora de jugar</title>
+  </programme>
+  <programme start="20210816175000 -0500" stop="20210816182000 -0500" channel="MEGA">
+    <title lang="es">Isla paraíso</title>
+  </programme>
+  <programme start="20210816182000 -0500" stop="20210816192000 -0500" channel="MEGA">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210816192000 -0500" stop="20210816200000 -0500" channel="MEGA">
+    <title lang="es">Pobre Novio</title>
+  </programme>
+  <programme start="20210816200000 -0500" stop="20210816212500 -0500" channel="MEGA">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210816212500 -0500" stop="20210816213000 -0500" channel="MEGA">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210816213000 -0500" stop="20210816221500 -0500" channel="MEGA">
+    <title lang="es">Demente</title>
+  </programme>
+  <programme start="20210816221500 -0500" stop="20210816230000 -0500" channel="MEGA">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210816230000 -0500" stop="20210816234500 -0500" channel="MEGA">
+    <title lang="es">Intikam</title>
+  </programme>
+  <programme start="20210816234500 -0500" stop="20210817004500 -0500" channel="MEGA">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210817234500 -0500" stop="20210818004500 -0500" channel="MEGA">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210818004500 -0500" stop="20210818044500 -0500" channel="MEGA">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210818175000 -0500" stop="20210818185000 -0500" channel="MEGA">
+    <title lang="es">Isla paraíso</title>
+  </programme>
+  <programme start="20210818185000 -0500" stop="20210818200000 -0500" channel="MEGA">
+    <title lang="es">Pobre Novio</title>
+  </programme>
+  <programme start="20210818200000 -0500" stop="20210818212500 -0500" channel="MEGA">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210818213000 -0500" stop="20210818221500 -0500" channel="MEGA">
+    <title lang="es">Demente</title>
+  </programme>
+  <programme start="20210818221500 -0500" stop="20210818230000 -0500" channel="MEGA">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210818230000 -0500" stop="20210818234500 -0500" channel="MEGA">
+    <title lang="es">Intikam</title>
+  </programme>
+  <programme start="20210819185000 -0500" stop="20210819200000 -0500" channel="MEGA">
+    <title lang="es">Pobre Novio</title>
+  </programme>
+  <programme start="20210815064500 -0500" stop="20210815070000 -0500" channel="MEGA HD">
+    <title lang="es">Pabellón de la Construcción TV</title>
+  </programme>
+  <programme start="20210815070000 -0500" stop="20210815120000 -0500" channel="MEGA HD">
+    <title lang="es">Especial de Prensa</title>
+  </programme>
+  <programme start="20210815120000 -0500" stop="20210815140000 -0500" channel="MEGA HD">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20210815140000 -0500" stop="20210815151500 -0500" channel="MEGA HD">
+    <title lang="es">Seleccion nacional</title>
+  </programme>
+  <programme start="20210815151500 -0500" stop="20210815162000 -0500" channel="MEGA HD">
+    <title lang="es">Comer y sanar</title>
+  </programme>
+  <programme start="20210815162000 -0500" stop="20210815181000 -0500" channel="MEGA HD">
+    <title lang="es">Got Talent Chile</title>
+  </programme>
+  <programme start="20210815181000 -0500" stop="20210815193000 -0500" channel="MEGA HD">
+    <title lang="es">Mi Barrio</title>
+  </programme>
+  <programme start="20210815193000 -0500" stop="20210815211500 -0500" channel="MEGA HD">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210815211500 -0500" stop="20210815212500 -0500" channel="MEGA HD">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210815212500 -0500" stop="20210815213000 -0500" channel="MEGA HD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210815213000 -0500" stop="20210815230000 -0500" channel="MEGA HD">
+    <title lang="es">Modus Operandi</title>
+  </programme>
+  <programme start="20210815230000 -0500" stop="20210816003000 -0500" channel="MEGA HD">
+    <title lang="es">Lo mejor de Demente</title>
+  </programme>
+  <programme start="20210816003000 -0500" stop="20210816044500 -0500" channel="MEGA HD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210816044500 -0500" stop="20210816053000 -0500" channel="MEGA HD">
+    <title lang="es">Meganoticias amanece</title>
+  </programme>
+  <programme start="20210816053000 -0500" stop="20210816070000 -0500" channel="MEGA HD">
+    <title lang="es">Meganoticias conecta</title>
+  </programme>
+  <programme start="20210816070000 -0500" stop="20210816120000 -0500" channel="MEGA HD">
+    <title lang="es">Mucho gusto</title>
+  </programme>
+  <programme start="20210816120000 -0500" stop="20210816142500 -0500" channel="MEGA HD">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20210816142500 -0500" stop="20210816143000 -0500" channel="MEGA HD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210816143000 -0500" stop="20210816151500 -0500" channel="MEGA HD">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210816151500 -0500" stop="20210816160000 -0500" channel="MEGA HD">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210816160000 -0500" stop="20210816170000 -0500" channel="MEGA HD">
+    <title lang="es">Zuleyha</title>
+  </programme>
+  <programme start="20210816170000 -0500" stop="20210816175000 -0500" channel="MEGA HD">
+    <title lang="es">La hora de jugar</title>
+  </programme>
+  <programme start="20210816175000 -0500" stop="20210816182000 -0500" channel="MEGA HD">
+    <title lang="es">Isla paraíso</title>
+  </programme>
+  <programme start="20210816182000 -0500" stop="20210816192000 -0500" channel="MEGA HD">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210816192000 -0500" stop="20210816200000 -0500" channel="MEGA HD">
+    <title lang="es">Pobre Novio</title>
+  </programme>
+  <programme start="20210816200000 -0500" stop="20210816212500 -0500" channel="MEGA HD">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210816212500 -0500" stop="20210816213000 -0500" channel="MEGA HD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210816213000 -0500" stop="20210816221500 -0500" channel="MEGA HD">
+    <title lang="es">Demente</title>
+  </programme>
+  <programme start="20210816221500 -0500" stop="20210816230000 -0500" channel="MEGA HD">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210816230000 -0500" stop="20210816234500 -0500" channel="MEGA HD">
+    <title lang="es">Intikam</title>
+  </programme>
+  <programme start="20210816234500 -0500" stop="20210817004500 -0500" channel="MEGA HD">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210817234500 -0500" stop="20210818004500 -0500" channel="MEGA HD">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210818004500 -0500" stop="20210818044500 -0500" channel="MEGA HD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210818175000 -0500" stop="20210818185000 -0500" channel="MEGA HD">
+    <title lang="es">Isla paraíso</title>
+  </programme>
+  <programme start="20210818185000 -0500" stop="20210818200000 -0500" channel="MEGA HD">
+    <title lang="es">Pobre Novio</title>
+  </programme>
+  <programme start="20210818200000 -0500" stop="20210818212500 -0500" channel="MEGA HD">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210818213000 -0500" stop="20210818221500 -0500" channel="MEGA HD">
+    <title lang="es">Demente</title>
+  </programme>
+  <programme start="20210818221500 -0500" stop="20210818230000 -0500" channel="MEGA HD">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210818230000 -0500" stop="20210818234500 -0500" channel="MEGA HD">
+    <title lang="es">Intikam</title>
+  </programme>
+  <programme start="20210819185000 -0500" stop="20210819200000 -0500" channel="MEGA HD">
+    <title lang="es">Pobre Novio</title>
+  </programme>
+  <programme start="20210815064500 -0500" stop="20210815070000 -0500" channel="MEGA SD">
+    <title lang="es">Pabellón de la Construcción TV</title>
+  </programme>
+  <programme start="20210815070000 -0500" stop="20210815120000 -0500" channel="MEGA SD">
+    <title lang="es">Especial de Prensa</title>
+  </programme>
+  <programme start="20210815120000 -0500" stop="20210815140000 -0500" channel="MEGA SD">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20210815140000 -0500" stop="20210815151500 -0500" channel="MEGA SD">
+    <title lang="es">Seleccion nacional</title>
+  </programme>
+  <programme start="20210815151500 -0500" stop="20210815162000 -0500" channel="MEGA SD">
+    <title lang="es">Comer y sanar</title>
+  </programme>
+  <programme start="20210815162000 -0500" stop="20210815181000 -0500" channel="MEGA SD">
+    <title lang="es">Got Talent Chile</title>
+  </programme>
+  <programme start="20210815181000 -0500" stop="20210815193000 -0500" channel="MEGA SD">
+    <title lang="es">Mi Barrio</title>
+  </programme>
+  <programme start="20210815193000 -0500" stop="20210815211500 -0500" channel="MEGA SD">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210815211500 -0500" stop="20210815212500 -0500" channel="MEGA SD">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210815212500 -0500" stop="20210815213000 -0500" channel="MEGA SD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210815213000 -0500" stop="20210815230000 -0500" channel="MEGA SD">
+    <title lang="es">Modus Operandi</title>
+  </programme>
+  <programme start="20210815230000 -0500" stop="20210816003000 -0500" channel="MEGA SD">
+    <title lang="es">Lo mejor de Demente</title>
+  </programme>
+  <programme start="20210816003000 -0500" stop="20210816044500 -0500" channel="MEGA SD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210816044500 -0500" stop="20210816053000 -0500" channel="MEGA SD">
+    <title lang="es">Meganoticias amanece</title>
+  </programme>
+  <programme start="20210816053000 -0500" stop="20210816070000 -0500" channel="MEGA SD">
+    <title lang="es">Meganoticias conecta</title>
+  </programme>
+  <programme start="20210816070000 -0500" stop="20210816120000 -0500" channel="MEGA SD">
+    <title lang="es">Mucho gusto</title>
+  </programme>
+  <programme start="20210816120000 -0500" stop="20210816142500 -0500" channel="MEGA SD">
+    <title lang="es">Meganoticias actualiza</title>
+  </programme>
+  <programme start="20210816142500 -0500" stop="20210816143000 -0500" channel="MEGA SD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210816143000 -0500" stop="20210816151500 -0500" channel="MEGA SD">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210816151500 -0500" stop="20210816160000 -0500" channel="MEGA SD">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210816160000 -0500" stop="20210816170000 -0500" channel="MEGA SD">
+    <title lang="es">Zuleyha</title>
+  </programme>
+  <programme start="20210816170000 -0500" stop="20210816175000 -0500" channel="MEGA SD">
+    <title lang="es">La hora de jugar</title>
+  </programme>
+  <programme start="20210816175000 -0500" stop="20210816182000 -0500" channel="MEGA SD">
+    <title lang="es">Isla paraíso</title>
+  </programme>
+  <programme start="20210816182000 -0500" stop="20210816192000 -0500" channel="MEGA SD">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210816192000 -0500" stop="20210816200000 -0500" channel="MEGA SD">
+    <title lang="es">Pobre Novio</title>
+  </programme>
+  <programme start="20210816200000 -0500" stop="20210816212500 -0500" channel="MEGA SD">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210816212500 -0500" stop="20210816213000 -0500" channel="MEGA SD">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20210816213000 -0500" stop="20210816221500 -0500" channel="MEGA SD">
+    <title lang="es">Demente</title>
+  </programme>
+  <programme start="20210816221500 -0500" stop="20210816230000 -0500" channel="MEGA SD">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210816230000 -0500" stop="20210816234500 -0500" channel="MEGA SD">
+    <title lang="es">Intikam</title>
+  </programme>
+  <programme start="20210816234500 -0500" stop="20210817004500 -0500" channel="MEGA SD">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210817234500 -0500" stop="20210818004500 -0500" channel="MEGA SD">
+    <title lang="es">Verdades ocultas</title>
+  </programme>
+  <programme start="20210818004500 -0500" stop="20210818044500 -0500" channel="MEGA SD">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210818175000 -0500" stop="20210818185000 -0500" channel="MEGA SD">
+    <title lang="es">Isla paraíso</title>
+  </programme>
+  <programme start="20210818185000 -0500" stop="20210818200000 -0500" channel="MEGA SD">
+    <title lang="es">Pobre Novio</title>
+  </programme>
+  <programme start="20210818200000 -0500" stop="20210818212500 -0500" channel="MEGA SD">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20210818213000 -0500" stop="20210818221500 -0500" channel="MEGA SD">
+    <title lang="es">Demente</title>
+  </programme>
+  <programme start="20210818221500 -0500" stop="20210818230000 -0500" channel="MEGA SD">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20210818230000 -0500" stop="20210818234500 -0500" channel="MEGA SD">
+    <title lang="es">Intikam</title>
+  </programme>
+  <programme start="20210819185000 -0500" stop="20210819200000 -0500" channel="MEGA SD">
+    <title lang="es">Pobre Novio</title>
   </programme>
 </tv>
